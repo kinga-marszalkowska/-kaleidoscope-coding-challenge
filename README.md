@@ -1,1 +1,1 @@
-# -kaleidoscope-coding-challenge
+# Kaleidoscope Coding Challenge
